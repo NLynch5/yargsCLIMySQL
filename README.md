@@ -1,1 +1,1 @@
-# yargsCLMMySQL
+# yargsCLIMySQL
